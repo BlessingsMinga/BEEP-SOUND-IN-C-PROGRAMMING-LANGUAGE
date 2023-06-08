@@ -1,8 +1,6 @@
 
 #include <stdio.h>
 #include <windows.h>
- 
-// Driver Code
 int main()
 {
  
